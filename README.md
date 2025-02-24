@@ -1,2 +1,2 @@
 # Dependency
-boost,nanomsg
+boost,nanomsg,buttonRPC
