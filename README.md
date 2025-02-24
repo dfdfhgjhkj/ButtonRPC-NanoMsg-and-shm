@@ -1,2 +1,2 @@
-
-ButtonRPC支持nanomsg和共享内存版本
+# Dependency
+boost,nanomsg
